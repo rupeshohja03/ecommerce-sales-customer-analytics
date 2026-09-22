@@ -1,0 +1,121 @@
+"customer_id";"customer_name";"email";"phone";"city";"state";"signup_date";"customer_rating"
+1;"Riya Gupta";"customer1@example.com";"9965926643";"Lucknow";"Uttar Pradesh";"2023-05-10";3.6
+2;"Saanvi Mehta";"customer2@example.com";"not_provided";"Mumbai";"Maharashtra";"2022-05-04";4.5
+3;"Kiara Malhotra";"customer3@example.com";"9213520650";"Surat";"Gujarat";"2022-09-13";2.8
+4;"Krishna Nair";"customer4@example.com";"9348874375";"Delhi";"Delhi";"2023-10-21";4.5
+5;"Vihaan Verma";"customer5@example.com";"9797814961";"Kolkata";"West Bengal";"2022-05-23";3.8
+6;"Vihaan Patel";"customer6@example.com";"9324817897";"Lucknow";"Uttar Pradesh";"2022-08-01";4.1
+7;"Krishna Verma";"customer7@example.com";"9919420805";"Nagpur";"Maharashtra";"2022-01-07";2.3
+8;"Anika Kumar";"customer8@example.com";"9265073049";"Kolkata";"West Bengal";"2022-04-16";1.8
+9;"Arjun Nair";"customer9@example.com";"9320527078";"Kolkata";"West Bengal";"2023-04-20";3.6
+10;"Sai Kumar";"customer10@example.com";"not_provided";"Bangalore";"Karnataka";"2022-11-26";1.8
+11;"Vivaan Rao";"not_provided";"9672274480";"Chennai";"Tamil Nadu";"2023-01-24";4.5
+12;"Myra Joshi";"customer12@example.com";"9189414765";"Ahmedabad";"Gujarat";"2023-07-17";3.9
+13;"Myra Reddy";"customer13@example.com";"9482720989";"Delhi";"Delhi";"2022-04-17";2.9
+14;"Ishaan Verma";"customer14@example.com";"9993734534";"Nagpur";"Maharashtra";"2022-11-02";1.8
+15;"Riya Singh";"customer15@example.com";"9160055743";"Ahmedabad";"Gujarat";"2023-10-09";2.7
+16;"Krishna Chopra";"customer16@example.com";"9479936793";"Bangalore";"Karnataka";"2022-10-21";4.3
+17;"Riya Chopra";"customer17@example.com";"9611459986";"Surat";"Gujarat";"2022-01-03";2.2
+18;"Myra Patel";"customer18@example.com";"9837251323";"Kolkata";"West Bengal";"2022-01-12";3.5
+19;"Ishaan Malhotra";"customer19@example.com";"9160435788";"Mumbai";"Maharashtra";"2022-11-18";1.4
+20;"Arjun Joshi";"customer20@example.com";"9816599798";"Mumbai";"Maharashtra";"2023-01-25";2.6
+21;"Reyansh Joshi";"customer21@example.com";"9244485128";"Bangalore";"Karnataka";"2023-11-12";2.5
+22;"Myra Rao";"customer22@example.com";"9316123688";"Nagpur";"Maharashtra";"2022-06-21";3.0
+23;"Krishna Kumar";"customer23@example.com";"9759962945";"Jaipur";"Rajasthan";"2023-04-24";1.9
+24;"Ananya Kumar";"customer24@example.com";"9782177210";"Mumbai";"Maharashtra";"2023-02-27";4.0
+25;"Sai Das";"customer25@example.com";"9140218011";"Surat";"Gujarat";"2022-12-07";2.2
+26;"Arjun Malhotra";"customer26@example.com";"9131935603";"Mumbai";"Maharashtra";"2022-03-07";2.4
+27;"Kabir Chopra";"not_provided";"9750938982";"Chennai";"Tamil Nadu";"2023-02-06";3.8
+28;"Kiara Nair";"customer28@example.com";"9541883922";"Jaipur";"Rajasthan";"2023-07-30";3.5
+29;"Saanvi Verma";"customer29@example.com";"9708912173";"Ahmedabad";"Gujarat";"2023-04-22";2.5
+30;"Aarav Kumar";"customer30@example.com";"9767259835";"Lucknow";"Uttar Pradesh";"2023-06-14";3.2
+31;"Riya Verma";"customer31@example.com";"9886653861";"Chennai";"Tamil Nadu";"2022-03-06";4.3
+32;"Aarav Nair";"customer32@example.com";"9413650173";"Surat";"Gujarat";"2023-01-28";4.0
+33;"Reyansh Patel";"customer33@example.com";"9585077110";"Mumbai";"Maharashtra";"2022-09-04";1.6
+34;"Riya Mehta";"customer34@example.com";"9998820438";"Ahmedabad";"Gujarat";"2022-10-13";1.2
+35;"Navya Iyer";"customer35@example.com";"9829068084";"Mumbai";"Maharashtra";"2022-08-16";1.8
+36;"Krishna Chopra";"customer36@example.com";"9964348740";"Nagpur";"Maharashtra";"2023-08-03";2.0
+37;"Sai Malhotra";"not_provided";"9227961025";"Lucknow";"Uttar Pradesh";"2022-07-04";4.6
+38;"Saanvi Patel";"customer38@example.com";"9168000193";"Pune";"Maharashtra";"2022-02-14";1.4
+39;"Vivaan Singh";"customer39@example.com";"9989530649";"Bangalore";"Karnataka";"2022-01-19";1.7
+40;"Sai Sharma";"customer40@example.com";"9641378645";"Jaipur";"Rajasthan";"2022-10-06";1.8
+41;"Vihaan Singh";"customer41@example.com";"9545495271";"Jaipur";"Rajasthan";"2022-05-29";3.3
+42;"Kabir Kumar";"customer42@example.com";"9820824119";"Bangalore";"Karnataka";"2023-06-30";3.0
+43;"Aditya Reddy";"customer43@example.com";"9571987297";"Mumbai";"Maharashtra";"2022-06-23";3.7
+44;"Riya Rao";"customer44@example.com";"9947719500";"Kolkata";"West Bengal";"2022-09-19";1.2
+45;"Krishna Singh";"customer45@example.com";"not_provided";"Mumbai";"Maharashtra";"2022-11-20";1.4
+46;"Arjun Rao";"customer46@example.com";"9112375122";"Mumbai";"Maharashtra";"2022-10-08";4.8
+47;"Aditya Rao";"customer47@example.com";"9419800204";"Pune";"Maharashtra";"2022-10-05";4.7
+48;"Aditya Kumar";"customer48@example.com";"9876606968";"Bangalore";"Karnataka";"2022-08-20";1.3
+49;"Kabir Iyer";"customer49@example.com";"9816893984";"Bangalore";"Karnataka";"2022-04-17";2.5
+50;"Navya Verma";"customer50@example.com";"not_provided";"Bangalore";"Karnataka";"2023-04-19";1.9
+51;"Anika Chopra";"customer51@example.com";"9453674571";"Mumbai";"Maharashtra";"2023-01-03";2.8
+52;"Navya Singh";"customer52@example.com";"9520526728";"Pune";"Maharashtra";"2023-02-21";3.3
+53;"Saanvi Sharma";"not_provided";"9768051382";"Mumbai";"Maharashtra";"2022-12-31";2.5
+54;"Ananya Kumar";"customer54@example.com";"9580005155";"Bangalore";"Karnataka";"2023-04-09";3.8
+55;"Aadhya Joshi";"customer55@example.com";"9383713952";"Kolkata";"West Bengal";"2023-05-10";3.3
+56;"Sai Malhotra";"customer56@example.com";"9190424061";"Lucknow";"Uttar Pradesh";"2022-05-06";3.4
+57;"Reyansh Singh";"customer57@example.com";"9807499681";"Hyderabad";"Telangana";"2022-12-14";1.5
+58;"Reyansh Gupta";"customer58@example.com";"9646026976";"Delhi";"Delhi";"2022-12-24";3.9
+59;"Ananya Gupta";"customer59@example.com";"9369053863";"Delhi";"Delhi";"2023-03-31";2.4
+60;"Riya Patel";"customer60@example.com";"9151326815";"Jaipur";"Rajasthan";"2022-04-22";3.5
+61;"Ishaan Sharma";"customer61@example.com";"9874238140";"Pune";"Maharashtra";"2022-01-25";3.4
+62;"Saanvi Nair";"customer62@example.com";"9764297804";"Surat";"Gujarat";"2022-11-05";5.0
+63;"Vihaan Sharma";"customer63@example.com";"9982813509";"Pune";"Maharashtra";"2022-08-09";3.5
+64;"Vihaan Gupta";"customer64@example.com";"9756042817";"Bangalore";"Karnataka";"2023-10-08";2.7
+65;"Kabir Reddy";"not_provided";"9866168132";"Bangalore";"Karnataka";"2022-02-02";3.7
+66;"Arjun Iyer";"customer66@example.com";"9901631126";"Bangalore";"Karnataka";"2023-04-04";3.4
+67;"Ishaan Malhotra";"customer67@example.com";"9510230715";"Mumbai";"Maharashtra";"2023-08-09";4.3
+68;"Ishaan Iyer";"customer68@example.com";"9177310855";"Kolkata";"West Bengal";"2023-04-11";1.3
+69;"Ananya Singh";"customer69@example.com";"not_provided";"Bangalore";"Karnataka";"2023-04-12";2.3
+70;"Priya Verma";"customer70@example.com";"9777639739";"Kolkata";"West Bengal";"2023-10-11";2.5
+71;"Reyansh Iyer";"customer71@example.com";"9328193286";"Mumbai";"Maharashtra";"2022-07-26";3.9
+72;"Sai Nair";"customer72@example.com";"9653389915";"Ahmedabad";"Gujarat";"2023-04-23";3.3
+73;"Vihaan Das";"customer73@example.com";"9647994214";"Jaipur";"Rajasthan";"2022-03-16";3.8
+74;"Riya Sharma";"customer74@example.com";"9608187097";"Bangalore";"Karnataka";"2022-01-14";2.6
+75;"Saanvi Gupta";"customer75@example.com";"not_provided";"Nagpur";"Maharashtra";"2022-10-31";1.4
+76;"Navya Mehta";"customer76@example.com";"9345964059";"Bangalore";"Karnataka";"2022-11-25";3.1
+77;"Kabir Rao";"customer77@example.com";"9729740455";"Bangalore";"Karnataka";"2023-03-19";1.3
+78;"Navya Patel";"customer78@example.com";"9949822914";"Hyderabad";"Telangana";"2022-10-06";1.6
+79;"Kabir Kumar";"customer79@example.com";"9120764473";"Kolkata";"West Bengal";"2022-01-19";1.3
+80;"Aarav Reddy";"customer80@example.com";"not_provided";"Bangalore";"Karnataka";"2022-10-16";4.7
+81;"Aditya Singh";"not_provided";"9529754889";"Bangalore";"Karnataka";"2022-06-22";4.2
+82;"Anika Iyer";"customer82@example.com";"9503782557";"Bangalore";"Karnataka";"2022-08-27";2.4
+83;"Myra Das";"customer83@example.com";"9382583078";"Jaipur";"Rajasthan";"2023-07-26";1.5
+84;"Myra Gupta";"customer84@example.com";"9223921786";"Bangalore";"Karnataka";"2023-01-20";2.3
+85;"Aarav Gupta";"customer85@example.com";"9874422693";"Mumbai";"Maharashtra";"2023-10-23";1.5
+86;"Anika Das";"customer86@example.com";"not_provided";"Lucknow";"Uttar Pradesh";"2023-03-05";4.4
+87;"Krishna Joshi";"customer87@example.com";"9827636695";"Bangalore";"Karnataka";"2023-09-19";1.2
+88;"Aadhya Mehta";"customer88@example.com";"9533650375";"Kolkata";"West Bengal";"2023-02-27";3.3
+89;"Kabir Reddy";"customer89@example.com";"9760399062";"Mumbai";"Maharashtra";"2022-04-03";2.8
+90;"Vivaan Mehta";"customer90@example.com";"9927677123";"Surat";"Gujarat";"2023-10-01";4.2
+91;"Riya Rao";"customer91@example.com";"9627074068";"Bangalore";"Karnataka";"2023-03-10";2.4
+92;"Arjun Das";"customer92@example.com";"9164657001";"Lucknow";"Uttar Pradesh";"2023-10-15";2.8
+93;"Navya Sharma";"customer93@example.com";"not_provided";"Hyderabad";"Telangana";"2022-01-22";5.0
+94;"Krishna Patel";"customer94@example.com";"9297568459";"Surat";"Gujarat";"2023-03-14";2.9
+95;"Riya Reddy";"customer95@example.com";"9361937468";"Chennai";"Tamil Nadu";"2023-04-19";3.0
+96;"Vivaan Joshi";"customer96@example.com";"9403747410";"Chennai";"Tamil Nadu";"2023-08-21";2.0
+97;"Anika Malhotra";"customer97@example.com";"9103368585";"Ahmedabad";"Gujarat";"2023-03-03";1.1
+98;"Saanvi Sharma";"customer98@example.com";"9481307935";"Bangalore";"Karnataka";"2022-10-07";3.9
+99;"Aarav Rao";"not_provided";"9827253064";"Hyderabad";"Telangana";"2022-09-01";2.3
+100;"Myra Patel";"customer100@example.com";"9722548426";"Kolkata";"West Bengal";"2022-04-23";3.9
+101;"Saanvi Mehta";"customer101@example.com";"9542826868";"Delhi";"Delhi";"2022-12-20";1.2
+102;"Kabir Verma";"customer102@example.com";"9763204331";"Ahmedabad";"Gujarat";"2023-04-22";1.8
+103;"Aarav Reddy";"customer103@example.com";"9303414362";"Surat";"Gujarat";"2022-12-24";4.5
+104;"Diya Iyer";"customer104@example.com";"9262635902";"Lucknow";"Uttar Pradesh";"2022-12-08";4.6
+105;"Kabir Gupta";"customer105@example.com";"9805676853";"Mumbai";"Maharashtra";"2022-01-13";4.0
+106;"Aarav Verma";"customer106@example.com";"9305496751";"Pune";"Maharashtra";"2022-03-24";4.6
+107;"Aditya Gupta";"customer107@example.com";"9454073148";"Delhi";"Delhi";"2022-08-12";2.7
+108;"Krishna Kumar";"customer108@example.com";"not_provided";"Mumbai";"Maharashtra";"2022-01-25";4.9
+109;"Myra Mehta";"not_provided";"9162175956";"Jaipur";"Rajasthan";"2023-02-27";4.2
+110;"Kiara Sharma";"customer110@example.com";"9889718140";"Bangalore";"Karnataka";"2022-12-10";4.3
+111;"Saanvi Nair";"customer111@example.com";"9481903711";"Pune";"Maharashtra";"2022-06-10";4.5
+112;"Kiara Kumar";"customer112@example.com";"9183706226";"Pune";"Maharashtra";"2023-10-13";2.5
+113;"Vihaan Mehta";"customer113@example.com";"9126245018";"Mumbai";"Maharashtra";"2022-11-21";1.9
+114;"Vihaan Kumar";"customer114@example.com";"9855036750";"Jaipur";"Rajasthan";"2022-09-16";2.3
+115;"Myra Gupta";"customer115@example.com";"9112313953";"Kolkata";"West Bengal";"2023-03-19";1.5
+116;"Aditya Singh";"customer116@example.com";"9336421149";"Ahmedabad";"Gujarat";"2023-01-16";4.7
+117;"Reyansh Kumar";"customer117@example.com";"9922824591";"Mumbai";"Maharashtra";"2023-05-24";4.5
+118;"Saanvi Nair";"customer118@example.com";"not_provided";"Bangalore";"Karnataka";"2023-10-13";2.7
+119;"Reyansh Das";"customer119@example.com";"9654739055";"Bangalore";"Karnataka";"2022-07-21";3.4
+120;"Kiara Nair";"customer120@example.com";"9539799229";"Mumbai";"Maharashtra";"2023-02-22";3.1
